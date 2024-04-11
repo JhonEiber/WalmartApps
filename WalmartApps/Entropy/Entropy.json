@@ -3,14 +3,14 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "Button1": 153,
-    "ComboBox1": 152,
+    "Button1": 6,
+    "ComboBox1": 5,
     "Host": 3,
-    "Screen1": 21
+    "Screen1": 4
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "04/11/2024 14:44:16",
+  "HeaderLastSavedDateTimeUTC": "04/11/2024 14:52:17",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "713dd11c-f68d-4955-a3cf-c01ca4ddb49d": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/d41db05d952f486890e11aa9d464b7e5\""
@@ -57,28 +57,13 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.975881,
+    "AnalysisLoadTime": 0.0137806,
     "ControlCount": {
-      "80c7b384668645d6ac11f5369e8e7de1": 1,
-      "button": 8,
-      "combobox": 9,
-      "datepicker": 6,
-      "dropdown": 4,
-      "e601adab6ebb46c586663da2277985ea": 1,
-      "gallery": 5,
-      "galleryTemplate": 5,
-      "group": 5,
-      "groupContainer": 2,
-      "htmlViewer": 3,
-      "icon": 4,
-      "image": 11,
-      "label": 44,
-      "radio": 3,
-      "rectangle": 4,
-      "screen": 1,
-      "text": 32
+      "button": 1,
+      "combobox": 1,
+      "screen": 1
     },
-    "DeserializationLoadTime": 1.9023816
+    "DeserializationLoadTime": 0.6740148
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
