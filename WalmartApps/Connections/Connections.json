@@ -1,0 +1,35 @@
+{
+  "713dd11c-f68d-4955-a3cf-c01ca4ddb49d": {
+    "appActions": [
+      "providers/PowerPlatform.Governance/Operations/Read",
+      "providers/PowerPlatform.Governance/Operations/Write"
+    ],
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1682/1.0.1682.3676/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {
+      "https://teams.wal-mart.com/sites/NecesidadesWalmartTech": {
+        "dataSources": {
+          "Lst_Auditoria": {
+            "tableName": "bf0c5fe4-2f89-4885-a314-ea8a1b1a090e"
+          },
+          "Lst_Auditoria_Seg": {
+            "tableName": "a72476ac-96d5-41e8-a8a5-80c0cdc3be30"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Lst_Auditoria",
+      "Lst_Auditoria_Seg"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "713dd11c-f68d-4955-a3cf-c01ca4ddb49d"
+  }
+}
