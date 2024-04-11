@@ -8,9 +8,9 @@ Screen1 As screen:
 
    ComboBox2 As combobox:
         Items: =ComboBoxSample
-        X: =40
+        X: =60
         Y: =40
-        ZIndex: =1
+        ZIndex: =3
         
     Button1 As button:
         Text: ="Button"
