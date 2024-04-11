@@ -1,0 +1,84 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Button1": 153,
+    "ComboBox1": 152,
+    "Host": 3,
+    "Screen1": 21
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "04/11/2024 14:44:16",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {
+    "713dd11c-f68d-4955-a3cf-c01ca4ddb49d": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/d41db05d952f486890e11aa9d464b7e5\""
+  },
+  "LocalDatabaseReferencesAsEmpty": true,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {
+    "ComboBoxSample": 3,
+    "CustomGallerySample": 0,
+    "DropDownSample": 2,
+    "Lst_Auditoria": 4,
+    "Lst_Auditoria_Seg": 5,
+    "RadioSample": 1
+  },
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "button": 1,
+    "combobox": 0
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Button1": {},
+    "ComboBox1": {},
+    "Host": {},
+    "Screen1": {}
+  },
+  "PCFDynamicSchemaForIRRetrievalEntry": {},
+  "PCFTemplateEntry": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Button1": 1,
+    "ComboBox1": 0,
+    "Host": 0,
+    "Screen1": 0
+  },
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0
+  },
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.975881,
+    "ControlCount": {
+      "80c7b384668645d6ac11f5369e8e7de1": 1,
+      "button": 8,
+      "combobox": 9,
+      "datepicker": 6,
+      "dropdown": 4,
+      "e601adab6ebb46c586663da2277985ea": 1,
+      "gallery": 5,
+      "galleryTemplate": 5,
+      "group": 5,
+      "groupContainer": 2,
+      "htmlViewer": 3,
+      "icon": 4,
+      "image": 11,
+      "label": 44,
+      "radio": 3,
+      "rectangle": 4,
+      "screen": 1,
+      "text": 32
+    },
+    "DeserializationLoadTime": 1.9023816
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}
