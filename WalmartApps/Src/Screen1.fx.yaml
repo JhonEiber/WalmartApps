@@ -12,3 +12,8 @@ Screen1 As screen:
         Y: =200
         ZIndex: =2
 
+ Button3 As button:
+        Text: ="holiii"
+        X: =60
+        Y: =200
+        ZIndex: =2
